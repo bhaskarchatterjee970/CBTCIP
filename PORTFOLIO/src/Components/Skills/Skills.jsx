@@ -8,42 +8,42 @@ function Skills() {
             </div>
             <div className="images flex-col md:flex-row  gap-y-10 w-full  h-auto mb-10 flex flex-wrap items-center justify-evenly">
                 <div className="img w-full md:w-1/4 flex flex-col items-center justify-center">
-                    <img className='w-2/5 md:w-[170px] h-[150px]  rounded-full'
-                     src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" alt="" />
-                     <p className='text-white text-center'>React</p>
+                    <img className='w-2/5 md:w-[170px] h-[150px]  rounded-full hover:scale-110 hover:rotate-3 hover:shadow-lg'
+                    src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="" />
+                     <p className='text-white text-center'>Java</p>
                 </div>
                 <div className="img w-full md:w-1/4 flex flex-col items-center justify-center ">
-                    <img className='w-2/5 md:w-[170px] h-[150px]  rounded-full'
+                    <img className='w-2/5 md:w-[170px] h-[150px]  rounded-full hover:scale-110 hover:rotate-3 hover:shadow-lg'
                     src="https://cdn-icons-png.flaticon.com/512/174/174854.png" alt="" />
                     <p className='text-white text-center'>HTML5</p>
                 </div>
                 <div className="img w-full md:w-1/4 flex flex-col items-center justify-center">
-                <img className='w-2/5 md:w-[170px] h-[150px]  rounded-full'
+                <img className='w-2/5 md:w-[170px] h-[150px]  rounded-full hover:scale-110 hover:rotate-3 hover:shadow-lg'
                     src="https://cdn.iconscout.com/icon/free/png-256/free-css-alt-3521367-2944811.png" alt="" />
                      <p className='text-white text-center'>CSS</p>
                 </div>
                 <div className="img w-full md:w-1/4 flex flex-col items-center justify-center">
-                <img className='w-2/5 md:w-[170px] h-[150px]  rounded-full'
+                <img className='w-2/5 md:w-[170px] h-[150px]  rounded-full hover:scale-110 hover:rotate-3 hover:shadow-lg'
                     src="https://cdn.iconscout.com/icon/premium/png-256-thumb/javascript-2752148-2284965.png?f=webp" alt="" />
                      <p className='text-white text-center'>javascript</p>
                 </div>
                 <div className="img w-full md:w-1/4 flex flex-col items-center justify-center">
-                <img className='w-2/5 md:w-[170px] h-[150px]  rounded-full'
+                <img className='w-2/5 md:w-[170px] h-[150px]  rounded-full hover:scale-110 hover:rotate-3 hover:shadow-lg'
                     src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/tailwind-css-icon.png" alt="" />
                      <p className='text-white text-center'>Tailwind</p>
                 </div>
                 <div className="img w-full md:w-1/4 flex flex-col items-center justify-center">
-                <img className='w-2/5 md:w-[170px] h-[150px]  rounded-full'
-                    src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="" />
-                     <p className='text-white text-center'>Java</p>
+                    <img className='w-2/5 md:w-[170px] h-[150px]  rounded-full hover:scale-110 hover:rotate-3 hover:shadow-lg'
+                     src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" alt="" />
+                     <p className='text-white text-center'>React</p>
                 </div>
                 <div className="img w-full md:w-1/4 flex flex-col items-center justify-center">
-                <img className='w-2/5 md:w-[170px] h-[150px]  rounded-full'
+                <img className='w-2/5 md:w-[170px] h-[150px]  rounded-full hover:scale-110 hover:rotate-3 hover:shadow-lg'
                     src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" alt="" />
                      <p className='text-white text-center'>Python</p>
                 </div>
                 <div className="img w-full md:w-1/4 flex flex-col items-center justify-center">
-                <img className='w-2/5 md:w-[170px] h-[150px]  rounded-full'
+                <img className='w-2/5 md:w-[170px] h-[150px]  rounded-full hover:scale-110 hover:rotate-3 hover:shadow-lg'
                     src="https://cdn-icons-png.freepik.com/256/13170/13170533.png?semt=ais_hybrid" alt="" />
                      <p className='text-white text-center'>Github</p>
                 </div>
